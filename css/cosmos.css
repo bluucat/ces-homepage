@@ -446,9 +446,11 @@ form .btn {
 .plan-bottom {
   padding-top: 0px !important;
   margin-top: 0px !important;
+  margin-right: 2%;
+  margin-left: 2%;
   padding-left: 20px;
   padding-right: 20px;
-  padding-bottom: 4%;
+  padding-bottom: 5%;
 }
 
 .plan-bottom-txt-1 {
